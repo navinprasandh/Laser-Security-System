@@ -13,4 +13,3 @@ Buzzer
 Arduino UNO
 Photo resistor
 Breadboard (generic)
-
